@@ -1,0 +1,9 @@
+@charset "UTF-8";
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.menu-color{
+	background-color: #e61be5;
+}
